@@ -21,3 +21,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eallyy&layout=compact&theme=radical" />
 </a>
+<a href="https://emiralanyalioglu.com">
+  <img align="center" src="https://raw.githubusercontent.com/eallyy/eallyy/main/code_red.png" />
+</a>
