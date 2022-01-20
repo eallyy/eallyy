@@ -1,4 +1,4 @@
-### Eally's Github Profile
+### eally's Github Profile
 
 📝 System Architecture Designer
 
