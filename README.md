@@ -1,4 +1,4 @@
-# Welcome to Emir ALANYALIOGLU's Github Page
+[![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&center=true&vCenter=true&width=435&lines=Welcome+to+eally's+Github+Page+%F0%9F%91%B9)](https://git.io/typing-svg)
 
 	I am
 	🌍 Serial Entrepreneur
