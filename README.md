@@ -1,6 +1,6 @@
 # Welcome to Emir ALANYALIOGLU's Github Page
 
-	I'm
+	I am
 	🌍 Serial Entrepreneur
 	💻 Backend Developer
 
