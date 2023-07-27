@@ -1,6 +1,6 @@
-### eally's Github Profile
+# Welcome to Emir ALANYALIOGLU's Github Page
 
-🌍 Serial Entrepreneur
+	🌍 Serial Entrepreneur
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eallyy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emir-alanyalioglu/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alany.co)
 
