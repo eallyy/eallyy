@@ -1,8 +1,8 @@
 # Welcome to Emir ALANYALIOGLU's Github Page
 
-	I'm
-		🌍 Serial Entrepreneur
-		💻 Backend Developer
+  I'm
+    🌍 Serial Entrepreneur
+    💻 Backend Developer
 
 <h5 align="center">
 	<code><a href="https://alany.co" title="Personal Website"><img width="22" src="images/alany_co.png"> Website</a></code>
