@@ -1,6 +1,14 @@
 # Welcome to Emir ALANYALIOGLU's Github Page
 
-	🌍 Serial Entrepreneur
+	I'm
+		🌍 Serial Entrepreneur
+		💻 Backend Developer
+
+<h5 align="center">
+	<code><a href="https://www.linkedin.com/in/emir-alanyalioglu/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+	<code><a href="https://www.hackerrank.com/eallyy" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+	<code><a href="https://stackoverflow.com/users/12406784/eally-root" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+</h5>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eallyy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emir-alanyalioglu/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alany.co)
 
